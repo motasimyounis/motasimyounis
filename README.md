@@ -12,7 +12,8 @@
 
 <br>
 <br>
- 🌱 I’m currently learning **AWS Certified Cloud Practitioner**
+ 🌱 I’m currently learning <h5>AWS Certified Cloud Practitioner</h5>
+
 
 - 📫 How to reach me **mtsmy31@gmail.com**
 
