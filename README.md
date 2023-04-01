@@ -7,14 +7,14 @@
 
 <br>
 <h3 align="left">About Me:</h3>
-   I am passionate about website development.
+   I am passionate about website development.<br>
    Keep Learning about Backend and frontend.
 
 <br>
 <br>
  🌱 I’m currently learning <h5>AWS Certified Cloud Practitioner</h5>
 
-
+<br>
 - 📫 How to reach me **mtsmy31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
