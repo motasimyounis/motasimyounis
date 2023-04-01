@@ -2,6 +2,15 @@
 <h3 align="center">A passionate Backend developer (Django) from Palestine.</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.81a3666bb7497f4bf6a67c189e4ba378?rik=xuMVn4GJcHMfKw&pid=ImgRaw&r=0">
 
+
+
+
+
+<h3 align="left">About Me:</h3>
+   I am passionate about website development.
+   Keep Learning about Backend and frontend.
+
+
  🌱 I’m currently learning **AWS Certified Cloud Practitioner**
 
 - 📫 How to reach me **mtsmy31@gmail.com**
