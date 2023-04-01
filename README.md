@@ -14,7 +14,8 @@
 <br>
  🌱 I’m currently learning <h5>AWS Certified Cloud Practitioner</h5>
 
-<br>
+
+
 - 📫 How to reach me **mtsmy31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
